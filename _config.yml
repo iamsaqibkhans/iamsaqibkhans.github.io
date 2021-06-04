@@ -1,12 +1,12 @@
 # Jekyll configuration
 
-name: abatchy's blog
-title: abatchy's blog
-description: Just another security blog.
+name: 0x00's blog
+title: 0x00's blog
+description: 0x00's security blog.
 
 # Url is currently only used only for the RSS feed in feed.xml
-url: http://abatchy17.github.io
-#url: http://localhost:4000
+url: http://iamsaqibkhans.github.io
+
 
 # For a project page here should be a project name. Otherwise (for user's/organizaion's page leave it empty)
 baseurl:
@@ -28,12 +28,12 @@ share:
   email: false
 
 social:
-  twitter: abatchy17
-  github: abatchy17
-  linkedin: shahat
+  twitter: init0x00
+  github: iamsaqibkhans
+  linkedin: iamsaqibkhans
 
 # Google Analytics key, leave blank to ignore
-google_analytics_key: UA-105787720-1
+google_analytics_key: 
 # Yandex metrica (https://metrica.yandex.com/) leave blank to ignore or put true to use
 yandex_metrica:
 
@@ -41,8 +41,8 @@ yandex_metrica:
 # Set this to your disqus shortname to enable comments. Note that the 'comments'
 # setting below must also be true. Individual posts can override 'comments' to
 # disable on a post-by-post basis
-disqus: abatchy17-github-io
-comments: true
+# disqus: abatchy17-github-io
+# comments: false
 
 permalink: /:year/:month/:title
 
